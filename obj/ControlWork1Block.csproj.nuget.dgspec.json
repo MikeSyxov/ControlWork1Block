@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\ControlWork1Block.csproj": {}
+    "e:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\ControlWork1Block.csproj": {}
   },
   "projects": {
-    "E:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\ControlWork1Block.csproj": {
+    "e:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\ControlWork1Block.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\ControlWork1Block.csproj",
+        "projectUniqueName": "e:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\ControlWork1Block.csproj",
         "projectName": "ControlWork1Block",
-        "projectPath": "E:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\ControlWork1Block.csproj",
+        "projectPath": "e:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\ControlWork1Block.csproj",
         "packagesPath": "C:\\Users\\yan_1\\.nuget\\packages\\",
-        "outputPath": "E:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\obj\\",
+        "outputPath": "e:\\My Documents\\ОбучGeekBrains\\GIT_EDUCATION\\Сsharp\\Homework\\ControlWork1Block\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yan_1\\AppData\\Roaming\\NuGet\\NuGet.Config"
