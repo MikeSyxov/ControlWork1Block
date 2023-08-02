@@ -17,3 +17,13 @@ void TransformationArrayWhen3chart(string[] arr1, string[] arr2)
         }
     }
 }
+void ShowArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+TransformationArrayWhen3chart(array1, array2);
+ShowArray(array2);
